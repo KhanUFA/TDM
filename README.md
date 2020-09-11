@@ -1,3 +1,3 @@
 # TDM
-the theory of decision-making
-Здесь будут выкладываться работа по ТВП
+the theory of decision-making\n
+Здесь будет выкладываться работа по ТВП
